@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andre_page/static/css/main.92c8d4eb.css",
+    "main.js": "/andre_page/static/js/main.3c0692b0.js",
+    "index.html": "/andre_page/index.html",
+    "main.92c8d4eb.css.map": "/andre_page/static/css/main.92c8d4eb.css.map",
+    "main.3c0692b0.js.map": "/andre_page/static/js/main.3c0692b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.3c0692b0.js"
+  ]
+}
