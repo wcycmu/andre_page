@@ -29,9 +29,10 @@ const Andre = () => {
       });
       const data = await response.json();
       setTransactionData(data);
-      setCurrentPage('dashboard');
+      // Don't auto-redirect anymore - let user click the button
     } catch (error) {
       console.error('Upload failed:', error);
+      alert('Upload failed. Please try again.');
     } finally {
       setLoading(false);
     }
